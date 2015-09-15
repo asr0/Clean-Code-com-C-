@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\UI.Console.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\UI.Console.exe
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\UI.Console.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.exe
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.csprojResolveAssemblyReference.cache

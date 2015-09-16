@@ -1,0 +1,4 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Repositorio\bin\Debug\Ansur.Repositorio.dll
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Repositorio\bin\Debug\Ansur.Repositorio.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Repositorio\obj\Debug\Ansur.Repositorio.dll
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Repositorio\obj\Debug\Ansur.Repositorio.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Aplicacao.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Aplicacao.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Dominio.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Repositorio.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Dominio.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\bin\Debug\Ansur.Repositorio.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\obj\Debug\Ansur.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\obj\Debug\Ansur.Aplicacao.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Aplicacao\obj\Debug\Ansur.Aplicacao.pdb

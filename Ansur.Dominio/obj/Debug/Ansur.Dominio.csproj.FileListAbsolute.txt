@@ -1,0 +1,6 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\bin\Debug\Ansur.Dominio.dll
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\bin\Debug\Ansur.Dominio.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\obj\Debug\Ansur.Dominio.dll
+c:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\obj\Debug\Ansur.Dominio.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\bin\Debug\Ansur.Dominio.dll.CodeAnalysisLog.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\Ansur.Dominio\bin\Debug\Ansur.Dominio.dll.lastcodeanalysissucceeded

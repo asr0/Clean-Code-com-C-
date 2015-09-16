@@ -4,3 +4,9 @@ c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\U
 c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.exe
 c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.pdb
 c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\obj\Debug\UI.Console.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Repositorio.dll
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Repositorio.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Dominio.dll
+c:\users\alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Dominio.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Aplicacao.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\Ansur\UI.Console\bin\Debug\Ansur.Aplicacao.pdb

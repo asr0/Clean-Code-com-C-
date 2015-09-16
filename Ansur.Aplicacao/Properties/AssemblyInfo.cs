@@ -9,11 +9,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("UI.Console")]
+[assembly: AssemblyTitle("Ansur.Aplicacao")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UI.Console")]
+[assembly: AssemblyProduct("Ansur.Aplicacao")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -26,7 +26,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("e46a8721-dd66-447a-bdcd-4358896ba338")]
+[assembly: Guid("71532511-0325-409f-a31e-2977e38c6332")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -50,6 +50,8 @@ namespace UI.Console
                     ExcluirAluno();
                     break;
                 default:
+                    System.Console.Write("Opção invalida!");
+                    System.Console.Read();
                     Menu();
                     break;
             }
@@ -57,6 +59,7 @@ namespace UI.Console
 
         public static void Main(string[] args)
         {
+            System.Console.Write("Aperte Enter para iniciar...");
             Menu();
         }
 
@@ -74,6 +77,7 @@ namespace UI.Console
 
         public static string Prompt(string text)
         {
+
             System.Console.WriteLine(text);
             return System.Console.ReadLine();
         }
@@ -94,6 +98,8 @@ namespace UI.Console
             var nome = Prompt("Digite o nome do aluno");
             var cargo = Prompt("Digite o cargo do aluno");
             var data = DateTime.Parse(Prompt("Digite o Data de Nascimento do aluno"));
+            
+            
             var aluno = new Aluno
             {
                 Nome = nome,

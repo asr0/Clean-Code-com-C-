@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Ansur.Dominio.Aluno>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Alunos</h2>
+
+<table class="table table-responsive table-bordered table-striped">
+
+    <thead>
+        <tr>
+            <td>Nome</td>
+            <td>Cargo</td>
+            <td>Data de Nascimento</td>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var aluno in Model)
+        {
+            <tr>
+                <td>@aluno.Nome</td>
+                <td>@aluno.Cargo</td>
+                <td>@aluno.DataNasc</td>
+            </tr>
+        }
+    </tbody>
+</table>
